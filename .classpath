@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry excluding="com/jaduda/druiddiff/" kind="src" path="src/com/jaduda/druiddiff"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/httpasyncclient-4.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/httpclient-4.5.8.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/httpcore-nio-4.4.11.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/jsoniter-0.9.23.jar"/>
+	<classpathentry kind="lib" path="/home/bashir/workspace/DruidDiff/jars/unirest-java-1.4.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
